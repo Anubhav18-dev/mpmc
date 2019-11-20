@@ -1,0 +1,5 @@
+LXI B,9050h
+LDAX B
+LXI B,9051H
+STAX B
+hlt

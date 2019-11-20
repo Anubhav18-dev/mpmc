@@ -1,0 +1,12 @@
+LHLD 9050H	
+XCHG		
+LHLD 9060H	
+MOV A, L		
+ADD E 		
+DAA		
+STA 9070H		
+MOV A, H		
+ADC D		
+DAA		
+STA 9071H		
+HLT 

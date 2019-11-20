@@ -1,0 +1,4 @@
+MVI B,5
+LXI H,9001H
+MOV M,B
+HLT

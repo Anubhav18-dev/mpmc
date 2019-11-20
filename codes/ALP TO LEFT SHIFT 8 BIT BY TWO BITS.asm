@@ -1,0 +1,4 @@
+MVI A,04H
+ADD A
+ADD A
+HLT

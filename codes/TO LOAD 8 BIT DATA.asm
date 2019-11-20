@@ -1,0 +1,3 @@
+LDA 9050h
+MOV B,A
+hlt

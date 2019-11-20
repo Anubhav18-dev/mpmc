@@ -1,0 +1,6 @@
+LXI H,9050h
+MOV B,M
+MOV A,B
+INR A
+STA 9051H
+hlt
